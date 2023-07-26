@@ -7,7 +7,7 @@ public class Bola
 {
     public const int desacelerar = 5;
 
-    Image img = Bitmap.FromFile("./New Piskel (3).png");
+    Image img = Bitmap.FromFile("../../../New Piskel (3).png");
 
     public int posicaoX { get; set; } = 750;
     public int posicaoY { get; set; } = 600;

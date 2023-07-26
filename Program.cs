@@ -32,9 +32,9 @@ public class Game
         form.FormBorderStyle = FormBorderStyle.None;
         form.BackColor = Color.Gray;
 
-        var bg = Image.FromFile("pixil.png");
-        Image img = Bitmap.FromFile("./New Piskel (3).png");
-        Image placarImg = Image.FromFile("Placar.png");
+        var bg = Image.FromFile("../../../pixil.png");
+        Image img = Bitmap.FromFile("../../../New Piskel (3).png");
+        Image placarImg = Image.FromFile("../../../Placar.png");
 
         Point cursor = Point.Empty;
         Graphics g = null;
@@ -84,10 +84,10 @@ public class Game
         pb.Width = size;
         pb.Height = size;
 
-        // var cronometro = DateTime.Now;
-        // var cronometro1 = DateTime.Now;
+        //var cronometro = datetime.now;
+        //var cronometro1 = datetime.now;
 
-        
+
         Tempo.tempo = DateTime.Now;
 
         tm.Tick += delegate
@@ -106,20 +106,20 @@ public class Game
 
             jogador1.move(0.02f);
 
-            // if (pular && (now - cronometro).Milliseconds > 100)
-            // {
-            //     jogador1.y = 620;
-            //     this.voltar = true;
-            //     this.pular = false;
-            //     cronometro = DateTime.Now;
-            // }
+            //if (pular && (now - cronometro).Milliseconds > 100)
+            //{
+            //    jogador1.y = 620;
+            //    this.voltar = true;
+            //    this.pular = false;
+            //    cronometro = DateTime.Now;
+            //}
 
-            // if (voltar && (now - cronometro1).Milliseconds > 600)
-            // {
-            //     jogador1.y = 590;
-            //     this.voltar = false;
-            //     cronometro1 = DateTime.Now;
-            // }
+            //if (voltar && (now - cronometro1).Milliseconds > 600)
+            //{
+            //    jogador1.y = 590;
+            //    this.voltar = false;
+            //    cronometro1 = DateTime.Now;
+            //}
 
 
             g.DrawImage(bg, new Rectangle(0, 0, form.Width, form.Height), 0, 0, 640, 480, units); //fundo
@@ -167,8 +167,8 @@ public class Game
 
             if (jogador1.touch(bolaa))
             {
-                bolaa.speedX += 20;
-                bolaa.speedY -= 10;
+                bolaa.speedX += 30;
+                bolaa.speedY -= 15;
             }
 
             if (Tempo.segundos() > 120) //tempo

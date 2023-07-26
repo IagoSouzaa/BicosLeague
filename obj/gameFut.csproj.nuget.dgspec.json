@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\2 - Desenvolvimento de sistemas 2022\\Iago Souza\\Garbossa\\gameFut\\gameFut.csproj": {}
+    "C:\\Users\\Aluno.SNCCHLAB01F12\\Desktop\\BicosLeague\\gameFut.csproj": {}
   },
   "projects": {
-    "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\2 - Desenvolvimento de sistemas 2022\\Iago Souza\\Garbossa\\gameFut\\gameFut.csproj": {
+    "C:\\Users\\Aluno.SNCCHLAB01F12\\Desktop\\BicosLeague\\gameFut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\2 - Desenvolvimento de sistemas 2022\\Iago Souza\\Garbossa\\gameFut\\gameFut.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno.SNCCHLAB01F12\\Desktop\\BicosLeague\\gameFut.csproj",
         "projectName": "gameFut",
-        "projectPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\2 - Desenvolvimento de sistemas 2022\\Iago Souza\\Garbossa\\gameFut\\gameFut.csproj",
-        "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
-        "outputPath": "S:\\COM\\Human_Resources\\01.Engineering_Tech_School\\02.Internal\\5 - Aprendizes\\2 - Desenvolvimento de Sistemas\\2 - Desenvolvimento de sistemas 2022\\Iago Souza\\Garbossa\\gameFut\\obj\\",
+        "projectPath": "C:\\Users\\Aluno.SNCCHLAB01F12\\Desktop\\BicosLeague\\gameFut.csproj",
+        "packagesPath": "C:\\Users\\Aluno.SNCCHLAB01F12\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aluno.SNCCHLAB01F12\\Desktop\\BicosLeague\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\disrct\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aluno.SNCCHLAB01F12\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -28,3 +28,18 @@ S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 -
 S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\gameFut.pdb
 S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\gameFut.genruntimeconfig.cache
 S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\ref\gameFut.dll
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\bin\Debug\net7.0-windows\gameFut.exe
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\bin\Debug\net7.0-windows\gameFut.deps.json
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\bin\Debug\net7.0-windows\gameFut.runtimeconfig.json
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\bin\Debug\net7.0-windows\gameFut.dll
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\bin\Debug\net7.0-windows\gameFut.pdb
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\obj\Debug\net7.0-windows\gameFut.csproj.AssemblyReference.cache
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\obj\Debug\net7.0-windows\gameFut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\obj\Debug\net7.0-windows\gameFut.AssemblyInfoInputs.cache
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\obj\Debug\net7.0-windows\gameFut.AssemblyInfo.cs
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\obj\Debug\net7.0-windows\gameFut.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\obj\Debug\net7.0-windows\gameFut.dll
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\obj\Debug\net7.0-windows\refint\gameFut.dll
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\obj\Debug\net7.0-windows\gameFut.pdb
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\obj\Debug\net7.0-windows\gameFut.genruntimeconfig.cache
+C:\Users\Aluno.SNCCHLAB01F12\Desktop\BicosLeague\obj\Debug\net7.0-windows\ref\gameFut.dll

@@ -5,7 +5,7 @@ using System.Windows.Forms;
 public class Jogador
 {
     private const float baseSpeed = 300;
-    Image img = Bitmap.FromFile("./New Piskel (3).png");
+    Image img = Bitmap.FromFile("../../../New Piskel (3).png");
 
     public float speedX = 0;
     private float speedY = 0;
@@ -30,12 +30,12 @@ public class Jogador
 
     public void goLeft()
     {
-        moveDir = -1;
+        moveDir = -2;
     }
 
     public void goRight()
     {
-        moveDir = 1;
+        moveDir = 2;
     }
 
     public void draw(Graphics g)
@@ -53,9 +53,9 @@ public class Jogador
         this.x += speedX * dt;
         this.y += speedY * dt;
 
-        if (moveDir == 1)
+        if (moveDir == 2)
             speedX = baseSpeed;
-        else if (moveDir == -1)
+        else if (moveDir == -2)
             speedX = -baseSpeed;
         else speedX *= 0.95f;
     }

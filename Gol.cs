@@ -5,7 +5,7 @@ using System.Windows.Forms;
 
 public class Gol
 {
-    Image img = Bitmap.FromFile("./New Piskel (3).png");
+    Image img = Bitmap.FromFile("../../../New Piskel (3).png");
     Rectangle rect;
 
     public Gol(Rectangle rect)
