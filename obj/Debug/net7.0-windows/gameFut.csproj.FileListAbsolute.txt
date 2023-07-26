@@ -1,0 +1,30 @@
+C:\Users\disrct\Desktop\gameFut\bin\Debug\net7.0-windows\gameFut.exe
+C:\Users\disrct\Desktop\gameFut\bin\Debug\net7.0-windows\gameFut.deps.json
+C:\Users\disrct\Desktop\gameFut\bin\Debug\net7.0-windows\gameFut.runtimeconfig.json
+C:\Users\disrct\Desktop\gameFut\bin\Debug\net7.0-windows\gameFut.dll
+C:\Users\disrct\Desktop\gameFut\bin\Debug\net7.0-windows\gameFut.pdb
+C:\Users\disrct\Desktop\gameFut\obj\Debug\net7.0-windows\gameFut.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\gameFut\obj\Debug\net7.0-windows\gameFut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\gameFut\obj\Debug\net7.0-windows\gameFut.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\gameFut\obj\Debug\net7.0-windows\gameFut.AssemblyInfo.cs
+C:\Users\disrct\Desktop\gameFut\obj\Debug\net7.0-windows\gameFut.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\gameFut\obj\Debug\net7.0-windows\gameFut.dll
+C:\Users\disrct\Desktop\gameFut\obj\Debug\net7.0-windows\refint\gameFut.dll
+C:\Users\disrct\Desktop\gameFut\obj\Debug\net7.0-windows\gameFut.pdb
+C:\Users\disrct\Desktop\gameFut\obj\Debug\net7.0-windows\gameFut.genruntimeconfig.cache
+C:\Users\disrct\Desktop\gameFut\obj\Debug\net7.0-windows\ref\gameFut.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\bin\Debug\net7.0-windows\gameFut.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\bin\Debug\net7.0-windows\gameFut.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\bin\Debug\net7.0-windows\gameFut.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\bin\Debug\net7.0-windows\gameFut.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\bin\Debug\net7.0-windows\gameFut.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\gameFut.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\gameFut.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\gameFut.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\gameFut.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\gameFut.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\gameFut.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\refint\gameFut.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\gameFut.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\gameFut.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Iago Souza\Garbossa\gameFut\obj\Debug\net7.0-windows\ref\gameFut.dll
